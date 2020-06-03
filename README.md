@@ -1,4 +1,4 @@
-#holbertonschool-zero_day
+# holbertonschool-zero_day
 
 This directory contains the file to complete the first project
 
