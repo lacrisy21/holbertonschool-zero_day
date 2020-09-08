@@ -1,8 +1,4 @@
-
-
-
 # holbertonschool-zero_day
-
-This directory contains the file to complete the first project
+This directory contains the file to complete the first project. Again. 
 
 
